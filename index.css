@@ -125,6 +125,16 @@ a:hover {
     background-color: #0077B5;
 }
 
+.chip-avb{
+    background-color: white;
+    border-color: #6E8771;
+    color: #6E8771;
+}
+
+.chip-avb:hover{
+    color: #6E8771;
+}
+
 .chip-ccp{
     background-color: oldlace;
     color: #4496EC;
